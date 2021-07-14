@@ -17,7 +17,7 @@ apt install python3 -y
 
 git clone https://github.com/cyberPESTE171/FH-consulta-cyberPESTE
 
-cd CONSULTA-FH
+cd consultafh
 
 pip install -r requeriments.txt
 
